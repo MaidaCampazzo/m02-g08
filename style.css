@@ -8,7 +8,7 @@ body{ /* body selecciona el cuerpo general y lo pinta */
 	width: 900px;
 	padding: 20px 0px;
 	margin: 0px;
-	background: purple;
+	background: darkblue;
 	margin: 0 auto; /* centrar elementos dentro de este div */
 	float: center;  /* otras opciones son left, right */
 }
@@ -17,7 +17,7 @@ body{ /* body selecciona el cuerpo general y lo pinta */
 	width: 900px; 
 	padding: 20px 0px;
 	margin: 0px;
-	background: gray;
+	background: lightgrey;
 	margin: 0 auto; /* centrar elementos dentro de este div */
 	float: center;  /* otras opciones son left, right */
 }
@@ -26,14 +26,14 @@ div{/* selecciona el div y lo pinta */
 	width: 820px; 
 	padding: 20px;
 	margin: 20px 20px;
-	background: white;
+	background: whitesmoke;
 }
 #desarrollo{/* selecciona el id y lo pinta */
 	background-color: orange;
 	}
 
 h1{/* selecciona el header o titulo 1 y lo pinta */
-	background-color: pink;
+	background-color: lightpink;
 	width: 100%;
 	padding: 0px;
 	margin: 20px 0px;
@@ -45,7 +45,7 @@ h1{/* selecciona el header o titulo 1 y lo pinta */
 	}
 
 h2 {/* selecciona el header o titulo 3 y lo pinta */
-	background: pink;
+	background: lightgray;
 	font-size: 20px;
 	color: navy;
 	font-family: 'Merriweather', serif;
@@ -57,14 +57,14 @@ h3 {
 }
 
 p {/* selecciona el parrafo y lo pinta */
-	background-color: white;
+	background-color: lightblue;
 	width: 100%;
 	padding: 10px;
 	font-size: 18px;
 	}
 
 img{/* selecciona las imagenes y las formatea */
-	border: 0px solid gray;
+	border: 0px lightgray;
 	width: 100%;
 	}
 
@@ -87,5 +87,5 @@ img{/* selecciona las imagenes y las formatea */
 }
 
 a{
-	color: white;
+	color: lightgray;
 }
